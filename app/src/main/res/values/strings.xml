@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Conversão de Temperaturas</string>
+    <string name="valor_em_Fahrenheit">Qual é a temperatura em Fahrenheit?</string>
+    <string name="valor_em_kelvin">Qual é a temperatura em Kelvin?</string>
+    <string name="informe_valor">informe_valor</string>
+    <string name="calcular">Calcular</string>
+</resources>
